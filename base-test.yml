@@ -1,0 +1,5 @@
+server:
+  port: 4466
+spring:
+  application:
+    name: cloud-config-test-1
